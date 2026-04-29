@@ -1,0 +1,8 @@
+param:
+  train: True
+  scenario: "navigation_v2"
+  num_agents: 4
+  horizon: 40
+  device: "cuda:0"
+  diffuse_steps: 150
+  n_epochs: 2000
