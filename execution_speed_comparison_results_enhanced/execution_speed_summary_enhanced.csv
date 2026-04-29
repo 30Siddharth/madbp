@@ -1,0 +1,3 @@
+Method,Avg Execution Time (s),Avg Step Time (ms),Steps per Second,Success Rate (%),Avg Distance from Goal,Avg Collisions per Episode,Collision Rate (per step),Total Collisions,Avg Reward,Memory Usage (MB),Real-time Factor,Avg Episode Length,Position Consistency (%),Num Episodes
+MADP,1.105865240097046,69.11657750606537,1.808538624312388,0.0,0.0,0.0,0.0,0,0.0,159.83935546875,1.5798074858529225,7.0,100.0,1
+CLF-QP,2.313323497772217,35.806636810302734,27.927783480415215,0.0,0.6793422448635101,0.0,0.0,0,3.232405424118042,159.9140625,0.46266469955444334,50.0,0.0,1
